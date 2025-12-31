@@ -1,0 +1,28 @@
+{
+  "notices": [
+    {
+      "appId": "2373990",
+      "title": "Game Not Available",
+      "message": "This game is currently unavailable for download. Our team has disabled access to this game, because the game may no longer work properly due to one of several possible issues: DRM protection, online connectivity features have been patched, or the download sources have become inaccessible. If you have information suggesting this game is working again, please contact our support team.",
+      "type": "error",
+      "badge": "DISABLED",
+      "issueTag": "Online Fix Broken",
+      "allowProceed": false,
+      "contactSupport": true
+    },
+    {
+      "appId": "2066940",
+      "title": "Beta Access Required",
+      "message": "This game is currently in early access and may have stability issues. Please report any problems to our support team.",
+      "type": "warning",
+      "badge": "EARLY ACCESS",
+      "issueTag": "Beta Version",
+      "allowProceed": true,
+      "contactSupport": false
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-01-01"
+  }
+}
