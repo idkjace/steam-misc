@@ -8,7 +8,7 @@
       "badge": "DISABLED",
       "issueTag": "Online Fix Broken",
       "allowProceed": false,
-      "contactSupport": true
+      "contactSupport": false
     },
     {
       "appId": "2066940",
@@ -26,3 +26,4 @@
     "last_updated": "2025-01-01"
   }
 }
+
