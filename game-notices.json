@@ -11,12 +11,22 @@
       "contactSupport": false
     },
     {
-      "appId": "2066940",
-      "title": "Beta Access Required",
-      "message": "This game is currently in early access and may have stability issues. Please report any problems to our support team.",
+      "appId": "1238840",
+      "title": "Game Not Available",
+      "message": "This game is require anti-cheat bypass in order to play with bypass, therefore its not working! to play the game you must use sharing account.",
       "type": "warning",
-      "badge": "EARLY ACCESS",
-      "issueTag": "Beta Version",
+      "badge": "WARNING",
+      "issueTag": "Not Working",
+      "allowProceed": true,
+      "contactSupport": false
+    },
+    {
+      "appId": "1238810",
+      "title": "Game Not Available",
+      "message": "This game is require anti-cheat bypass in order to play with bypass, therefore its not working! to play the game you must use sharing account.",
+      "type": "warning",
+      "badge": "WARNING",
+      "issueTag": "Not Working",
       "allowProceed": true,
       "contactSupport": false
     }
@@ -26,4 +36,5 @@
     "last_updated": "2025-01-01"
   }
 }
+
 
